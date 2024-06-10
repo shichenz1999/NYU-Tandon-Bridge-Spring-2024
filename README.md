@@ -1,6 +1,6 @@
-#NYU Tandon Bridge Spring 2024
+# NYU Tandon Bridge Spring 2024 (28 Weeks)
 
-##Course Structure
+## Course Structure
 The Bridge Course is taught asynchronously. In the course, you will be participating in interactive online modules, live webinars, assignments, and peer-to-peer engagement. Each week, your professors will host a virtual meeting to discuss the week's lecture and topics, and answer students’ questions. You may choose to attend the live sessions or watch the recording at your convenience. 
 
 Your professors will assign weekly assignments. Each student is required to set aside time to study and complete the homework by the due dates. You will have 4 exams throughout the course that must be taken at the dates and times indicated by your course instructor.
@@ -8,7 +8,7 @@ Your professors will assign weekly assignments. Each student is required to set 
 The 21-week course requires students to dedicate about 30-40 hours per week. 
 The 28-week course requires students to dedicate about 20-30 hours per week.
 
-##Course Topics
+## Course Topics
 Application Layer, Network Layer and Transport Layer
 Arrays
 Branching Statements
